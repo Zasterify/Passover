@@ -1,0 +1,32 @@
+BEFORE YOU BEGIN. MAKE SURE YOU READ ALL THE INSTRUCTIONS FIRST. I MEAN EVERYTHING TO THE LAST DETAIL!!
+
+Good! you've made it to a level where you can use IDEs (Look up the definition of this so you understand). 
+
+Below this line, give me at least five other examples of IDEs that are used by people, the IDE does not need
+to be specific to python. Can be for any other languages. 
+
+Your first assignment is as follows:
+
+ Delete "hello.py".
+ Create a new branch. Call it "firstPractice" (The casing i use is called Camel Case [Look this up too)
+ In this new branch, I want you to create a file and call name it "repeat.py".
+ Inside "repeat.py" do the follow:
+    a. Define a function called `repeat`
+    b. The function should ask the user for a word that they would like. (This will be aby word)
+    c. The function should then repeat that same word back to the user. 
+
+
+Example:
+    - When I hit run on the computer, it should ask me "Enter a word you would like to repeat". 
+    - Once I enter a word, it should say "The word you entered is: `the word goes here`
+
+
+Two things:
+- Your file must contain comments. You need to learn to add comments to things that you write so people who have 
+never seen your code can understand without having to decipher the code. 
+- For every step that I listed above. I want you to commit and push the changes you made. 
+
+
+For now you can still come to me in person to ask questions (AFTER you have done some research on google and still cannot 
+figure it out. But later on, we will practice conversing over distance that way you get experience with working with 
+people who are not physically there with you. 
