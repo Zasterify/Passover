@@ -7,12 +7,12 @@ to be specific to python. Can be for any other languages.
 
 Your first assignment is as follows:
 
- Delete "hello.py".
- Create a new branch. Call it "firstPractice" (The casing i use is called Camel Case [Look this up too)
- In this new branch, I want you to create a file and call name it "repeat.py".
- Inside "repeat.py" do the follow:
+ 1. Delete "hello.py".
+ 2. Create a new branch. Call it "firstPractice" (The casing i use is called Camel Case [Look this up too)
+ 3. In this new branch, I want you to create a file and call name it "repeat.py".
+ 4. Inside "repeat.py" do the follow:
     a. Define a function called `repeat`
-    b. The function should ask the user for a word that they would like. (This will be aby word)
+    b. The function should ask the user for a word that they would like. (This will be any word)
     c. The function should then repeat that same word back to the user. 
 
 
