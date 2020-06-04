@@ -1,32 +1,34 @@
 BEFORE YOU BEGIN. MAKE SURE YOU READ ALL THE INSTRUCTIONS FIRST. I MEAN EVERYTHING TO THE LAST DETAIL!!
 
-Good! you've made it to a level where you can use IDEs (Look up the definition of this so you understand). 
+Nice. Now, for the next step do the following. Make sure you commit and push changes as needed for every step,
+you can do more in between steps, the point is to practice to save your work like you would in microsoft word. 
+When you reach a point you feel that is to be saved, you should commit anf push. When you reach a checkpoint you 
+should commit and push. 
 
-Below this line, give me at least five other examples of IDEs that are used by people, the IDE does not need
-to be specific to python. Can be for any other languages. 
+I would be very careful from here on because, i will only give you 3 chances to start over for this assigment. 
+This assignment is also due at 6:30PM today. That is 3 hours from now. Plenty of time to take it step by step and
+be very very careful of what you do. Looking things up will save you literaily hours instead of guessing!
 
-Your first assignment is as follows:
+For the next step do the following. 
 
- 1. Delete "hello.py".
- 2. Create a new branch. Call it "firstPractice" (The casing i use is called Camel Case [Look this up too)
- 3. In this new branch, I want you to create a file and call name it "repeat.py".
- 4. Inside "repeat.py" do the follow:
-    a. Define a function called `repeat`
-    b. The function should ask the user for a word that they would like. (This will be any word)
-    c. The function should then repeat that same word back to the user. 
+1. Add docstring to your "repeat" function inside "repeat.py". (If you do not know what docstrings are, look it up!)
+2. Merge the branch "firstPractice" back into master. 
+3. Create a new branch called "secondPractice"
+4. Inside this new branch do the following. (ALL OF THIS HAS TO BE DONE FROM VSCODE. DO NOT USE FINDER ON YOUR COMPUTER,
+    You can either use the "explorer" to the left inside VSCODE or use the built in terminal console in VSCODE your choice. How to find these things
+    are on google and if you look closely at VSCODE and you read about it like you told me, they are very easy to find.)
 
+    a. Create a new folder inside your "Passover" folder. Call this folder "Laboratory 1"
+    b. Move the "repeat.py" file inside "Laboratory 1"
+    c. Create a new function file inside "Laboratory 1" called "parrot.py"
+    d. Inside "parrot.py" define a function called "parrot"
+    e. Parrot should as the user for a word, then it should ask the user for a number. (That is two things it will ask the user. One after the other)
+    f. Parrot should then [Print] the word the user put in as many times as the number asked. (see the example below).
 
-Example:
-    - When I hit run on the computer, it should ask me "Enter a word you would like to repeat". 
-    - Once I enter a word, it should say "The word you entered is: `the word goes here`
+Sample:
+    1. "Enter a word here: " <-- I will enter the word "Hello"
+    2. "Enter a number here: " <-- I enter the number 5
 
+    when i run your file, it should print out "Hello Hello Hello Hello Hello" That is Hello 5 times. 
 
-Two things:
-- Your file must contain comments. You need to learn to add comments to things that you write so people who have 
-never seen your code can understand without having to decipher the code. 
-- For every step that I listed above. I want you to commit and push the changes you made. 
-
-
-For now you can still come to me in person to ask questions (AFTER you have done some research on google and still cannot 
-figure it out. But later on, we will practice conversing over distance that way you get experience with working with 
-people who are not physically there with you. 
+REMEBER TO COMMIT AND PUSH (THIS IS LIKE SAVING YOUR FILE AND WILL SAVE YOU ONE DAY!!!)
