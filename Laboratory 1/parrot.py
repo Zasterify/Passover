@@ -1,0 +1,1 @@
+def parrot():   # To define the function 'parrot'
