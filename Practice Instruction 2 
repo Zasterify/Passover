@@ -1,0 +1,32 @@
+Nice. Now, for the next step do the following. Make sure you commit and push changes as needed for every step,
+you can do more in between steps, the point is to practice to save your work like you would in microsoft word. 
+When you reach a point you feel that is to be saved, you should commit and push. When you reach a checkpoint you 
+should commit and push. 
+
+I would be very careful from here on because, i will only give you 3 chances to start over for this assigment. 
+This assignment is also due at 6:30PM today. That is 3 hours from now. Plenty of time to take it step by step and
+be very very careful of what you do. Looking things up will save you literaily hours instead of guessing!
+
+For the next step do the following. 
+1. Add docstring to your "repeat" function inside "repeat.py". (If you do not know what docstrings are, look it up!)
+2. Merge the branch "firstPractice" back into master. 
+3. Create a new branch called "secondPractice"
+4. Inside this new branch do the following. (ALL OF THIS HAS TO BE DONE FROM VSCODE. DO NOT USE FINDER ON YOUR COMPUTER,
+    You can either use the "explorer" to the left inside VSCODE or use the built in terminal console in VSCODE your choice. How to find these things
+    are on google and if you look closely at VSCODE and you read about it like you told me, they are very easy to find.)
+
+    a. Create a new folder inside your "Passover" folder. Call this folder "Laboratory 1"
+    b. Move the "repeat.py" file inside "Laboratory 1"
+    c. Create a new function file inside "Laboratory 1" called "parrot.py"
+    d. Inside "parrot.py" define a function called "parrot"
+    e. Parrot should as the user for a word, then it should ask the user for a number. (That is two things it will ask the user. One after the other)
+    f. Parrot should then [Print] the word the user put in as many times as the number asked. (see the example below).
+
+
+    Sample:
+    1. "Enter a word here: " <-- I will enter the word "Hello"
+    2. "Enter a number here: " <-- I enter the number 5
+
+ When i run your file, it should print out "Hello Hello Hello Hello Hello" That is Hello 5 times. 
+
+ REMEBER TO COMMIT AND PUSH (THIS IS LIKE SAVING YOUR FILE AND WILL SAVE YOU ONE DAY!!!)
