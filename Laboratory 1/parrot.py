@@ -3,12 +3,7 @@ def parrot():
     
     x = input("Enter a word: ")  
     
+    print("The word you entered is: ",x)
     
-    y = int(input("Enter a number: "))  
-    
-   
-    print (x * y)  
-    
-
 
 parrot()   
