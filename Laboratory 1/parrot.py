@@ -1,10 +1,9 @@
-def parrot():   
-    '''This function is to define the parrot''' 
+def parrot(): # This function is to define the parrot
     
-    x = input("Enter a word: ")
-    y = int(input("Enter a number: "))
+    x = input("Enter a word: ") # To access any word 
+    y = int(input("Enter a number: ")) # To access any number
 
-    print ((x + " ") * y)
+    print ((x + " ") * y) # Remeber to print regularly at the end
 
 
-parrot()   
+parrot()  # Never forget this!!! 
