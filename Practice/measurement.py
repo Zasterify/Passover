@@ -1,0 +1,1 @@
+length = float(input("Enter the length: ")) # To access any number in length  
