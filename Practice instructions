@@ -1,15 +1,20 @@
-Define a new branch called thirdPractice. 
+Merge the third practice branch back into master. 
 
-Inside third practice make a new folder called Laboratory 2. 
-Inside Laboratory 2, make a file called ParameterOne.py. 
-Inside ParameterOne.py, define a function called firstParameter that takes in one argument called word. 
-    - firstParameter should `return` the `word` passed in
-After you are done, on a line ask the user to input a word and save that to a variable. 
-Then call your function with the variable passed in as the parameter. 
+Then create a fourth branch called temperatureConversion (From now on we will call the branches something meaningful/relating to the problema
+at hand.)
 
-Example:
-"Enter a word here: "       <-- I enter hello. 
-Then if i call print(firstParameter(word))      <-- Prints out hello
+This time, i will not tell you what to do step by step. I will give you the problem, and you can and should use
+everything you know or find out to implement the solution. 
 
-Due at 4PM or Earlier if you finish early. Remeber to continue the commiting, as well as comment and docstrings
-this should always be done even if i don't say so. 
+The problem is as follows: 
+
+I want a file with two functions in it. Once of them is called c2f and the other is f2c
+    - c2f should take in one parameter which is a number and return a float representation of the number.
+    - c2f should convert the number given from celsius to farenheit. (assume the number will always be given in celsius)
+    - Similarly f2c should work in exactly the same way, but it should convert from farenheit to celsius.
+
+sample test that you can run to make sure it works:
+print(c2f(31)) --> 87.800000001
+print(c2f(100)) --> 212.0
+print(f2c(-40)) --> -40.0
+print(f2c(72)) --> 22.2222222222
