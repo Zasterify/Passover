@@ -1,21 +1,15 @@
-BEFORE YOU BEGIN. MAKE SURE YOU READ ALL THE INSTRUCTIONS FIRST. I MEAN EVERYTHING TO THE LAST DETAIL!!
+Define a new branch called thirdPractice. 
 
-Ok. This one should be really easy. Just a few things to clean up then, we can continue tomorrow morning. 
-If you want to do something in the mean time i suggest you look into how to use "parameters" in python, to 
-get a head start. That is what we i will give you work on tomorrow.
+Inside third practice make a new folder called Laboratory 2. 
+Inside Laboratory 2, make a file called ParameterOne.py. 
+Inside ParameterOne.py, define a function called firstParameter that takes in one argument called word. 
+    - firstParameter should `return` the `word` passed in
+After you are done, on a line ask the user to input a word and save that to a variable. 
+Then call your function with the variable passed in as the parameter. 
 
-Do the following. 
-1. Merge the secondPractice branch into master.
-2. In repeat.py, remove the 'extra' docstrings you made. Remember docstrings should only be with the functions definition (def)
-3. Add comments to every line of the file. (This is a little exessive. Depends on what kind of programmer you ask, 
-    but to practice for now and to make sure you understand what you are doing, use comments) Remeber, you do not 
-    have to comment the "def" line because the docstring is the comment. 
+Example:
+"Enter a word here: "       <-- I enter hello. 
+Then if i call print(firstParameter(word))      <-- Prints out hello
 
-    Example: 
-    x = input("Enter a word: ")     # Accepts an input from the user <-- This is the comment.
-    print(x)       # Prints to the console <-- This is the comment.
-4. In parrot.py, add comments to the file similar to the way you just did with repeat.py
-
-When you are done, let me know and then if good, we will continue tomorrow. 
-
-REMEMBER TO COMMIT AND PUSH!
+Due at 4PM or Earlier if you finish early. Remeber to continue the commiting, as well as comment and docstrings
+this should always be done even if i don't say so. 
