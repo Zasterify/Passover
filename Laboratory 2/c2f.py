@@ -7,6 +7,8 @@ def c2f():
 
     print ("The temperature in fahrenheit you entered is: ",fahrenheit) # To print the frmula from the above.
 
+c2f() # Never to forgert this as the above.
+
     
 
 

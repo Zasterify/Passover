@@ -5,5 +5,7 @@ def f2c():
     celsius = float(fahrenheit - 32) * 5/9 # To put the formula of celsius 
 
     print ("The temperature in celsius you entered is: ", celsius) # To print the formula from the above
+
+f2c() # Never forget to put this as the above. 
     
 
