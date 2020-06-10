@@ -1,20 +1,14 @@
-Merge the third practice branch back into master. 
+Cool. Now for another practice. 
 
-Then create a fourth branch called temperatureConversion (From now on we will call the branches something meaningful/relating to the problema
-at hand.)
+You are not allowed to import any math tools yet. Use your math knowledge to figure out this one. 
 
-This time, i will not tell you what to do step by step. I will give you the problem, and you can and should use
-everything you know or find out to implement the solution. 
+This time i want a file called "Stats.py"
+    - Stats.py should contain four functions, mean, meadian, mode, and values. 
+    - mean should take in one parameter which is a list and must return the mean of all the numbers
+    - meadian should take in one parameter which is a list and must return the median of all the numbers
+    - mode should take in one parameter which is a list and must return the mode of all the numbers. 
+    - values should take in one parameter which is a list, and must print out the call to the functions mean, median, mode 
+        and with the paramater passed in. 
 
-The problem is as follows: 
 
-I want a file with two functions in it. Once of them is called c2f and the other is f2c
-    - c2f should take in one parameter which is a number and return a float representation of the number.
-    - c2f should convert the number given from celsius to farenheit. (assume the number will always be given in celsius)
-    - Similarly f2c should work in exactly the same way, but it should convert from farenheit to celsius.
-
-sample test that you can run to make sure it works:
-print(c2f(31)) --> 87.800000001
-print(c2f(100)) --> 212.0
-print(f2c(-40)) --> -40.0
-print(f2c(72)) --> 22.2222222222
+for example: when i call `value([1,2,2,3,3,3])` it should give me "The mean is 2.3, median is 2.5, and mode is 3"
