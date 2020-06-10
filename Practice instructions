@@ -1,21 +1,20 @@
-BEFORE YOU BEGIN. MAKE SURE YOU READ ALL THE INSTRUCTIONS FIRST. I MEAN EVERYTHING TO THE LAST DETAIL!!
+Merge the third practice branch back into master. 
 
-Ok. This one should be really easy. Just a few things to clean up then, we can continue tomorrow morning. 
-If you want to do something in the mean time i suggest you look into how to use "parameters" in python, to 
-get a head start. That is what we i will give you work on tomorrow.
+Then create a fourth branch called temperatureConversion (From now on we will call the branches something meaningful/relating to the problema
+at hand.)
 
-Do the following. 
-1. Merge the secondPractice branch into master.
-2. In repeat.py, remove the 'extra' docstrings you made. Remember docstrings should only be with the functions definition (def)
-3. Add comments to every line of the file. (This is a little exessive. Depends on what kind of programmer you ask, 
-    but to practice for now and to make sure you understand what you are doing, use comments) Remeber, you do not 
-    have to comment the "def" line because the docstring is the comment. 
+This time, i will not tell you what to do step by step. I will give you the problem, and you can and should use
+everything you know or find out to implement the solution. 
 
-    Example: 
-    x = input("Enter a word: ")     # Accepts an input from the user <-- This is the comment.
-    print(x)       # Prints to the console <-- This is the comment.
-4. In parrot.py, add comments to the file similar to the way you just did with repeat.py
+The problem is as follows: 
 
-When you are done, let me know and then if good, we will continue tomorrow. 
+I want a file with two functions in it. Once of them is called c2f and the other is f2c
+    - c2f should take in one parameter which is a number and return a float representation of the number.
+    - c2f should convert the number given from celsius to farenheit. (assume the number will always be given in celsius)
+    - Similarly f2c should work in exactly the same way, but it should convert from farenheit to celsius.
 
-REMEMBER TO COMMIT AND PUSH!
+sample test that you can run to make sure it works:
+print(c2f(31)) --> 87.800000001
+print(c2f(100)) --> 212.0
+print(f2c(-40)) --> -40.0
+print(f2c(72)) --> 22.2222222222
