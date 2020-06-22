@@ -9,4 +9,5 @@ def total(listNum):
 
     return total # To return the total 
 
-    samplelist = [2, 3, 4, 5] # To modify any numbers for total 
+samplelist = [2, 3, 4, 5] # To modify any numbers for total 
+print(total(samplelist)) # To print the total of the numbers in list
