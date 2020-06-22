@@ -21,7 +21,7 @@ def multiply(Randomlist):
     To define the function 'multiply'
     '''
 
-    total = 0  # To modify the variable to store the total
+    total = 1  # To modify the variable to store the total
 
     for i in Randomlist:  # for every number 'i' in the list of number
         total *= i  # To multiply i to the total
