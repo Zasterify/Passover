@@ -20,5 +20,7 @@ def multiply(Randomlist):
     To define the function 'multiply'
     '''
 
+    total = 0  # To modify the variable to store the total
+
 
   
