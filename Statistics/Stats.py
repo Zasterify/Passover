@@ -8,3 +8,5 @@ def total(listNum):
         total = total + n # add n to the total
 
     return total # To return the total 
+
+    samplelist = [2, 3, 4, 5] # To modify any numbers for total 
