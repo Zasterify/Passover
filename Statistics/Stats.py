@@ -11,5 +11,7 @@ def total(Newlist):
 
     return total   # To return the total
 
+ExList = range(3, 6)  # To put any number for total
+
 
   
