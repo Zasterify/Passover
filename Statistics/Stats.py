@@ -9,5 +9,7 @@ def total(Newlist):
     for y in Newlist: # for every number (y) in the list of numbers
         total += y  # To add 'y' to the total
 
+    return total   # To return the total
+
 
   
