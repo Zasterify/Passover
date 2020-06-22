@@ -22,5 +22,7 @@ def multiply(Randomlist):
 
     total = 0  # To modify the variable to store the total
 
+    for i in Randomlist:  # for every number 'i' in the list of number
+
 
   
