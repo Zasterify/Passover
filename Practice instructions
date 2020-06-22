@@ -1,14 +1,12 @@
 Cool. Now for another practice. 
 
 You are not allowed to import any math tools yet. Use your math knowledge to figure out this one. 
+Create a new branch and call it `stats`
 
-This time i want a file called "Stats.py"
-    - Stats.py should contain four functions, mean, meadian, mode, and values. 
-    - mean should take in one parameter which is a list and must return the mean of all the numbers
-    - meadian should take in one parameter which is a list and must return the median of all the numbers
-    - mode should take in one parameter which is a list and must return the mode of all the numbers. 
-    - values should take in one parameter which is a list, and must print out the call to the functions mean, median, mode 
-        and with the paramater passed in. 
+This time i want a folder called `Statistics` with a file called "stats.py"
+    - Inside `Stats.py`, define a function called total
+    - Total must take in one parameter that will be a list of numbers
+    - Using a `for` loop, add all the elements in the list together
+    - Return the total number. 
 
-
-for example: when i call `value([1,2,2,3,3,3])` it should give me "The mean is 2.3, median is 2.5, and mode is 3"
+Remember to keep commenting, branching, commiting, your work.
