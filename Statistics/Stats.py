@@ -27,5 +27,7 @@ def multiply(Randomlist):
 
     return total # To return the total
 
+Samplist = range(8) # To put any number as you like
+
 
   
