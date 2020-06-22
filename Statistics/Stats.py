@@ -25,5 +25,7 @@ def multiply(Randomlist):
     for i in Randomlist:  # for every number 'i' in the list of number
         total *= i # To multiply i to the total
 
+    return total # To return the total
+
 
   
