@@ -15,4 +15,10 @@ ExList = range(3, 6)  # To put any number for total
 print(total(ExList))  # To print the total
 
 
+def multiply(Randomlist):
+    '''
+    To define the function 'multiply'
+    '''
+
+
   
