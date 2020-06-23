@@ -82,4 +82,6 @@ givenlist = [1, 3, 5, 7]  # i create a givenlist so that it may allow a user to 
 
 consideredAnswer = 8 # Also i save my considered answer so that i can use it again later
 
+print("The answer i considered is: ", consideredAnswer) # To print the answer what i considered is correct
+
 
