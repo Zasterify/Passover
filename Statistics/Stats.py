@@ -56,5 +56,7 @@ def multiplication(pinlist):
         total *= s  # Multiply total to the given number
 
     return total # To return the total when done
+
+pinlist = [7, 1, 2]  # i produce a pin list so that it might permit a user to pass in 
     
 
