@@ -18,6 +18,8 @@ expectedAnswer = 16 # I also save my expected answer so i can use it later
 
 print('The answer i expect is: ', expectedAnswer) # To print the answer what i expected is right
 
+print('The answer my function is: ', total(Newlist)) # To print the function exactly the same as the above.
+
 
 
 
