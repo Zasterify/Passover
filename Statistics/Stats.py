@@ -63,4 +63,14 @@ print('The answer i expect is: ', expectedAnswer) # To print the answer exactly 
 print('The answer my function shown is: ', length(givenlist)) # To make a similar to total and multiplication 
 
 
+def LengthSquared(givenlist):
+
+    '''
+    To define the function 'LengthSquared'
+    Givenlist is produced in the list of integer
+    The function return the total which is given the numbers in givenlist 
+    '''
+
+    
+
 
