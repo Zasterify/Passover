@@ -40,3 +40,16 @@ expectedAnswer = 6      # I save my expected answer in a variable so i can use i
 # I then print my function with my example list passed in to compare with an answer i know is right
 print("The answer i expect is", expectedAnswer,
       "and the answer my function gives is", total(exampleList))
+
+
+
+
+def multiplication(pinlist): 
+    '''
+    To define the function which multiplies to a given number
+    Pinlist is given in the list of integer that consists of parameter
+    The function return the product which is given the whole numbers in pinlist
+    '''
+    
+    
+
