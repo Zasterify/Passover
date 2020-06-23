@@ -14,6 +14,8 @@ def total(Newlist):
 
 Newlist = [9, 5, 2]  # i create a New list so that it may allow a user to pass in 
 
+expectedAnswer = 16 # I also save my expected answer so i can use it later
+
 
 
 
