@@ -61,6 +61,7 @@ givenlist = [2, 4, 6, 8, 10] # I produce a given list so that it perhaps allow a
 expectedAnswer = 5
 print('The answer i expect is: ', expectedAnswer) # To print the answer exactly is right
 print('The answer of length in givenlist is: ', givenlist) # To print the answer of the length
+print('The answer my function shown is: ', len(givenlist)) # To make a similar to total and multiplication 
 
 
 
