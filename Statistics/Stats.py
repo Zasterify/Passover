@@ -58,5 +58,7 @@ def multiplication(pinlist):
     return total # To return the total when done
 
 pinlist = [7, 1, 2]  # i produce a pin list so that it might permit a user to pass in 
+
+consideredAnswer = 14  # Also i save my considered answer so that i can use it again later 
     
 
