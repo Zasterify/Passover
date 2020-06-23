@@ -7,6 +7,8 @@ def total(Newlist):
 
     total = 0   # This is a variable to store the total number
 
+    for y in Newlist:  # for every number (y) in the list of numbers (Newlist)
+
 
 
 
