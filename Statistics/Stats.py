@@ -1,18 +1,11 @@
 def total(Newlist):
     """ 
     To define the function 'Newlist'
+    Newlist is provided in the list of integer 
+    The function return the total which is given the numbers in Newlist
     """
 
-    total = 0   # To create the variable to store the total number
-
-    for y in Newlist:  # for every number (y) in the list of numbers
-        total += y  # To add 'y' to the total
-
-    return total   # To return the total
-
-# To put any number for total             ### This is not a sample list. To make a list you have to use "[ ]" Look up how to assign a list to a variable  ###
-Newlist = [3, 6]
-print(total(Newlist))  # To print the total
+    
 
 
 
