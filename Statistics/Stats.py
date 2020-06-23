@@ -80,4 +80,6 @@ def LengthSquared(givenlist):
 
 givenlist = [1, 3, 5, 7]  # i create a givenlist so that it may allow a user to pass in
 
+consideredAnswer = 8 # Also i save my considered answer so that i can use it again later
+
 
