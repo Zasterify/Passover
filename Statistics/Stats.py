@@ -71,6 +71,6 @@ def LengthSquared(givenlist):
     The function return the total which is given the numbers in givenlist 
     '''
 
-    
+    total = 0 # This is a variable to store the total number
 
 
