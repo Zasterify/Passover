@@ -59,6 +59,7 @@ def length(givenlist):
 
 givenlist = [2, 4, 6, 8, 10] # I produce a given list so that it perhaps allow a user to pass in
 expectedAnswer = 5
+print('The answer i expect is: ', expectedAnswer) # To print the answer exactly is right
 
 
 
