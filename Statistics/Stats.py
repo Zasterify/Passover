@@ -54,5 +54,7 @@ def multiplication(pinlist):
     
     for s in pinlist: # For every number (s) in the list of numbers (pinist)
         total *= s  # Multiply total to the given number
+
+    return total # To return the total when done
     
 
