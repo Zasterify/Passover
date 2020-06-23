@@ -50,6 +50,6 @@ def multiplication(pinlist):
     Pinlist is given in the list of integer that consists of parameter
     The function return the product which is given the whole numbers in pinlist
     '''
-    
+    total = 1 # This is a variable that stores the product.
     
 
