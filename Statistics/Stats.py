@@ -78,4 +78,6 @@ def LengthSquared(givenlist):
 
     return total  # To return the total
 
+givenlist = [1, 3, 5, 7]  # i create a givenlist so that it may allow a user to pass in
+
 
