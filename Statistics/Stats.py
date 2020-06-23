@@ -76,4 +76,6 @@ def LengthSquared(givenlist):
     for t in givenlist: # for every number (t) in the list of numbers (givenlist)
         total += 2  # Add t to the total 
 
+    return total  # To return the total
+
 
