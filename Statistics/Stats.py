@@ -55,5 +55,7 @@ def length(givenlist):
     for num in givenlist: # for every number (num) in the list of numbers (givenlist)
         total += num  # Add num to the total
 
+    return length  # return the length when done
+
 
 
