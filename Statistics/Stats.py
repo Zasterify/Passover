@@ -53,15 +53,14 @@ def length(givenlist):
     total = 0 # This is a variable that stores the total
 
     for num in givenlist: # for every number (num) in the list of numbers (givenlist)
-        total += num  # Add num to the total
-
-    return length  # return the length when done
+        total += 1  # Add num to the total
+        
+    return total  # return the length when done
 
 givenlist = [2, 4, 6, 8, 10] # I produce a given list so that it perhaps allow a user to pass in
 expectedAnswer = 5
 print('The answer i expect is: ', expectedAnswer) # To print the answer exactly is right
-print('The answer of length in givenlist is: ', givenlist) # To print the answer of the length
-print('The answer my function shown is: ', len(givenlist)) # To make a similar to total and multiplication 
+print('The answer my function shown is: ', length(givenlist)) # To make a similar to total and multiplication 
 
 
 
