@@ -73,4 +73,6 @@ def LengthSquared(givenlist):
 
     total = 0 # This is a variable to store the total number
 
+    for t in givenlist: # for every number (t) in the list of numbers (givenlist)
+
 
