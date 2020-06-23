@@ -40,3 +40,17 @@ pinlist = [7, 1, 2]  # i produce a pin list so that it might permit a user to pa
 consideredAnswer = 14  # Also i save my considered answer so that i can use it again later 
 print('The answer i consider is ', consideredAnswer) # To print the answer exactly is correct
 print('The answer my function given is ', multiplication(pinlist)) # To make a comparison between total and multiplication
+
+
+
+def length(givenlist):
+    
+    """ 
+    To define the function 'length' with the parameter called givenlist
+    Givenlist is shown in the list of integer that includes in parameter
+    The function return the length which represents the whole number in givenlist
+    """
+    
+
+
+
