@@ -53,5 +53,6 @@ def multiplication(pinlist):
     total = 1 # This is a variable that stores the product.
     
     for s in pinlist: # For every number (s) in the list of numbers (pinist)
+        total *= s  # Multiply total to the given number
     
 
