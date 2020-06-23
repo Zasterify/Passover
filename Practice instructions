@@ -4,10 +4,10 @@ You are not allowed to import any math tools yet. Use your math knowledge to fig
 Create a new branch and call it `stats`
 
 This time i want a folder called `Statistics` with a file called "stats.py"
-    - Look over your functions. I want you to give them meaninful comments that explain what each line is doing. 
-        I will give an example using the multiply function. 
-    - Do not copy mine, but make your own to fit what you will understand. 
-    - Do not just put comments to have it. Put it to be meaningful. 
-    - After we are done, i will give the function to my dad and based on your comments he should be able to fully understand what it does and why every line is necessary. 
+    - Comment the total function similar to the way you did with multiplication
+    - Also, i noticed your commit messages are just generic names with some numbers. That is not good practice. 
+    I should be able to know exactly what you changed in the file from your commit messages without even opening the file, 
+    so practice commiting with messages that show what you did. Bascially, the message should show in one sentence what you 
+    performed before you commited. Notice the way i do my commit messages. 
 
 Remember to keep commenting, branching, commiting, your work.
