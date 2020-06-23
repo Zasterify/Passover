@@ -58,6 +58,7 @@ def length(givenlist):
     return length  # return the length when done
 
 givenlist = [2, 4, 6, 8, 10] # I produce a given list so that it perhaps allow a user to pass in
+expectedAnswer = 5
 
 
 
