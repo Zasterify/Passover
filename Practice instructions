@@ -1,13 +1,14 @@
 Cool. Now for another practice. 
 
 You are not allowed to import any math tools yet. Use your math knowledge to figure out this one. 
-Create a new branch and call it `stats`
 
-This time i want a folder called `Statistics` with a file called "stats.py"
-    - Comment the total function similar to the way you did with multiplication
-    - Also, i noticed your commit messages are just generic names with some numbers. That is not good practice. 
-    I should be able to know exactly what you changed in the file from your commit messages without even opening the file, 
-    so practice commiting with messages that show what you did. Bascially, the message should show in one sentence what you 
-    performed before you commited. Notice the way i do my commit messages. 
+Ok. Good. Now you know how to perform actions using a list such as adding and multiplying. Make sure you 
+keep looking over everyting we have done up to this point because they will be building on each other. 
 
-Remember to keep commenting, branching, commiting, your work.
+For this next part, we are going to learn how to find the length of a list. It is very similar to how you 
+did total and multiplication
+- Define a function called `length` that takes in one list parameter called `givenlist`
+- Use a loop to find out how long the list is. For example a list of [1,2,3] is of length 3. 
+- The function should `return` the length of the list. 
+- Full comment and commiting practice apply here. 
+- Make sure you test your code similar to the way we did in total and multiplication. 
