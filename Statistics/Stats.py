@@ -12,6 +12,8 @@ def total(Newlist):
 
     return total   # Return the total when done
 
+Newlist = [9, 5, 2]  # i create a New list so that it may allow a user to pass in 
+
 
 
 
