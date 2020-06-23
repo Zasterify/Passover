@@ -53,6 +53,7 @@ def length(givenlist):
     total = 0 # This is a variable that stores the total
 
     for num in givenlist: # for every number (num) in the list of numbers (givenlist)
+        total += num  # Add num to the total
 
 
 
