@@ -7,8 +7,8 @@ keep looking over everyting we have done up to this point because they will be b
 
 For this next part, we are going to learn how to find the length of a list. It is very similar to how you 
 did total and multiplication
-- Define a function called `length` that takes in one list parameter called `givenlist`
+- Define a function called `LengthSquared` that takes in one list parameter called `givenlist`
 - Use a loop to find out how long the list is. For example a list of [1,2,3] is of length 3. 
-- The function should `return` the length of the list. 
+- The function should `return` the square of the length of the list.
 - Full comment and commiting practice apply here. 
 - Make sure you test your code similar to the way we did in total and multiplication. 
