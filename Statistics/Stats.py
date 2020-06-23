@@ -84,4 +84,6 @@ consideredAnswer = 8 # Also i save my considered answer so that i can use it aga
 
 print("The answer i considered is: ", consideredAnswer) # To print the answer what i considered is correct
 
+print("The answer my function is: ", LengthSquared(givenlist)) # To print the function exactly the same as the above.
+
 
