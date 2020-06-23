@@ -50,7 +50,7 @@ def length(givenlist):
     Givenlist is shown in the list of integer that includes in parameter
     The function return the length which represents the whole number in givenlist
     """
-    
+    total = 0 # This is a variable that stores the total
 
 
 
