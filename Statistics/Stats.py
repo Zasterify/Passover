@@ -73,17 +73,18 @@ def LengthSquared(givenlist):
 
     total = 0 # This is a variable to store the total number
 
-    for t in givenlist: # for every number (t) in the list of numbers (givenlist)
-        total += 4  # Add t to the total 
+    for  t in givenlist: # for every number (t) in the list of numbers (givenlist)
+        total += 1  # Add t to the total
+        LengthSquared = total ** 2  # Multiply total to the length of square
 
-    return total  # To return the square
+        
+    return LengthSquared  # To return the total
 
-givenlist = [1, 3, 5, 7]  # i create a givenlist so that it may allow a user to pass in
+givenlist = [1, 3, 5, 4, 7, 5]  # i create a givenlist so that it may allow a user to pass in
 
-consideredAnswer = 16 # Also i save my considered answer so that i can use it again later
+consideredAnswer = 36 # Also i save my considered answer so that i can use it again later
 
 print("The answer i considered is: ", consideredAnswer) # To print the answer what i considered is correct
 
 print("The answer my function is: ", LengthSquared(givenlist)) # To print the function exactly the same as the above.
-
 
