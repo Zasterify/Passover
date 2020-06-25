@@ -59,6 +59,7 @@ def length(givenlist):
 
     return total  # return the length when done
 
+<<<<<<< Updated upstream
 
 # I produce a given list so that it perhaps allow a user to pass in
 givenlist = [2, 4, 6, 8, 10]
@@ -67,6 +68,12 @@ expectedAnswer = 5
 print('The answer i expect is: ', expectedAnswer)
 # To make a similar to total and multiplication
 print('The answer my function shown is: ', length(givenlist))
+=======
+givenlist = [2, 4, 6, 8, 10] # I produce a given list so that it perhaps allow a user to pass in
+expectedAnswer = 5  # I also save my expected answer so i can use it later
+print('The answer i expect is: ', expectedAnswer) # To print the answer exactly is right
+print('The answer my function shown is: ', length(givenlist)) # To make a similar to total and multiplication 
+>>>>>>> Stashed changes
 
 
 def LengthSquared(givenlist):
@@ -81,9 +88,19 @@ def LengthSquared(givenlist):
     # for every number (t) in the list of numbers (givenlist)
     for t in givenlist:
         total += 1  # Add t to the total
+<<<<<<< Updated upstream
+=======
+        
+    return total ** 2  # To return the total by exponent of two
+
+givenlist = [1, 3, 5, 4, 7, 5]  # i create a givenlist so that it may allow a user to pass in
+
+consideredAnswer = 36 # Also i save my considered answer so that i can use it again later
+>>>>>>> Stashed changes
 
     return total * total  # To return the total
 
+<<<<<<< Updated upstream
 
 # i create a givenlist so that it may allow a user to pass in
 givenlist = [1, 3, 5, 4, 7, 5]
@@ -92,3 +109,30 @@ consideredAnswer = 36  # Also i save my considered answer so that i can use it a
 print("The answer i considered is: ", consideredAnswer)
 # To print the function exactly the same as the above.
 print("The answer my function is: ", LengthSquared(givenlist))
+=======
+print("The answer my function is: ", LengthSquared(givenlist)) # To print the function exactly the same as the above
+
+
+def LengthHalved(givenlist):
+
+    """
+    To define the function 'LengthHalved'
+    Givenlist is produced in the list of integer
+    The function return half of the length of the list
+    """
+
+    total = 0  # This is a variable that stores the total
+
+    for f in givenlist: # for every numbeers 'm' in the list of numbers (givenlist)
+        total += 1  # Add m to the total
+
+    if total % 2 == 0: 
+        return total / 2 # if the length is even   
+    else:   
+        return (total // 2) + 1 # if the length is odd
+
+givenlist = [3, 2, 1] # I produce a given list so that it perhaps allow a user to pass in
+expectedAnswer = 3  # I also save my expected answer so i can use it later3
+print("The answer i expected is: ", expectedAnswer)  # To print the answer exactly is right
+print("The answer my function is: ", LengthHalved(givenlist)) # To print the function exactly the same as the above
+>>>>>>> Stashed changes
